@@ -1,9 +1,9 @@
-ody {
+body {
     background: #F4EDED;
 }
 header{
-    font-family: "Jomolhari"
-    font-size: 128px;
-    font align:center;
-    color:3BC384;
+    font-family: "Jomolhari";
+    font-size: 100px;
+    font-align:center;
+    background-color:green;
 }
