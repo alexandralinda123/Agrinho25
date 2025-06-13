@@ -1,9 +1,10 @@
 body {
     background: #F4EDED;
 }
+
 header{
     font-family: "Jomolhari";
     font-size: 100px;
-    font-align:center;
+    font-align: center; 
     background-color:green;
 }
